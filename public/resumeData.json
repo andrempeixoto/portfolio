@@ -1,72 +1,84 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Andre Peixoto",
+    "occupation": "ReactJS and Node.js Developer",
+    "description": "Full Stack React Development Student and English Teacher by Day, Parent and Husband by Night",
+    "image": "me.jpeg",
+    "bio": "My name is Andre, I'm a Full Stack ReactJS Develpment Student.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "andre@peixotodev.com",
+    "phone": "+55 18 99640-9068",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "R. Manoel Ruiz Garcia, 895",
+      "city": "Sao Paulo/Brazil",
+      "state": "Sao Paulo",
+      "zip": "19050-680"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.peixotodev.com",
+    "resumedownload": "/resume",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/peixoto.amp",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/andrempeixoto/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/andrempeixoto/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/andrempeixoto",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "These are some of my technical skills:",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Rocketseat",
+        "degree": "Fullstack JavaScript (ReactJS, React Native, Node.js) Bootcamp",
+        "graduated": "currently attending",
+        "description": "Expected conclusion: Dec/2020"
+      },
+      {
+      "school": "Toledo University Center",
+      "degree": "MBA Business Management",
+      "graduated": "2013",
+      "description": ""
+      },
+      {
+        "school": "Northern Parana State University",
+        "degree": "Biological Sciences",
+        "graduated": "2010",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
+        "company": "PeixotoDev",
+        "title": "Founder/Developer",
         "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "description": "Providing high level Websites."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "CalEnglish",
+        "title": "English Teacher",
+        "years": "Jul 2019 - present",
+        "description": "C2 ESL Teacher helping teenagers and adults master the English language."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "80%"
       },
       {
         "name": "CSS",
@@ -74,7 +86,7 @@
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "Figma && Adobe XD",
@@ -82,57 +94,35 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "50%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "To-Do App",
+        "category": "WebApp built with Vanilla JavaScript",
+        "image": "get-done.png",
+        "url": "/get-done"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
-      },
-      {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Julia's English Box",
+        "category": "WebApp game built with HTML, CSS and Vanilla JavaScript",
+        "image": "julia-english-box.png",
+        "url": "/julia-english-box"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I'd love you to be my first testimonial author in this section.",
+        "user": "Andre Peixoto"
       }
     ]
   }
