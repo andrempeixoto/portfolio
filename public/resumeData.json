@@ -4,7 +4,7 @@
     "occupation": "ReactJS and Node.js Developer",
     "description": "Full Stack React Development Student and English Teacher by Day, Parent and Husband by Night",
     "image": "me.jpeg",
-    "bio": "My name is Andre, I'm a Full Stack ReactJS Develpment Student.",
+    "bio": "My name is Andre, I'm a Full Stack ReactJS Development Student.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "andre@peixotodev.com",
     "phone": "+55 18 99640-9068",
@@ -15,7 +15,7 @@
       "zip": "19050-680"
     },
     "website": "http://www.peixotodev.com",
-    "resumedownload": "/resume",
+    "resumedownload": "https://peixotodev.com/resume",
     "social": [
       {
         "name": "facebook",
@@ -108,13 +108,13 @@
         "title": "To-Do App",
         "category": "WebApp built with Vanilla JavaScript",
         "image": "get-done.png",
-        "url": "/get-done"
+        "url": "https://peixotodev.com/get-done"
       },
       {
         "title": "Julia's English Box",
         "category": "WebApp game built with HTML, CSS and Vanilla JavaScript",
         "image": "julia-english-box.png",
-        "url": "/julia-english-box"
+        "url": "https://peixotodev.com/julia-english-box"
       }
     ]
   },
