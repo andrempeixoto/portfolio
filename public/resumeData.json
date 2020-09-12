@@ -81,8 +81,8 @@
         "description": "I've been developing Business and IT consulting services, aiming greater ROI and customer satisfaction."
       },
       {
-        "company": "Pequenos Animais",
-        "title": "Business and IT Consultant",
+        "company": "Igreja Prudentina",
+        "title": "Communication Ministry Coordinator",
         "years": "Jul 2017 - present",
         "description": "I currently work as a volunteer coordinator of the Media Ministry, which involves sound operation, streaming of services and classes, monthly newsletters and webmaster activities (I've developed the institution's website, now available at igrejaprudentina.net)."
       }
@@ -90,7 +90,7 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "CSS",
@@ -98,11 +98,11 @@
       },
       {
         "name": "Git",
-        "level": "80%"
+        "level": "70%"
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "30%"
       },
       {
         "name": "HTML5",
@@ -110,7 +110,7 @@
       },
       {
         "name": "MongoDB",
-        "level": "50%"
+        "level": "20%"
       }
     ]
   },
@@ -131,7 +131,7 @@
       {
         "title": "Proffy, your online learning platform",
         "category": "e-Learning WebApp built with React",
-        "image": "proffy1.png",
+        "image": "proffy.png",
         "url": "https://proffy-steel.vercel.app"
       },
       {
