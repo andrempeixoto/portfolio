@@ -49,10 +49,10 @@
         "description": "Expected conclusion: Dec/2020"
       },
       {
-      "school": "Toledo University Center",
-      "degree": "MBA Business Management",
-      "graduated": "2013",
-      "description": ""
+        "school": "Toledo University Center",
+        "degree": "MBA Business Management",
+        "graduated": "2013",
+        "description": ""
       },
       {
         "school": "Northern Parana State University",
@@ -73,6 +73,18 @@
         "title": "English Teacher",
         "years": "Jul 2019 - present",
         "description": "C2 ESL Teacher helping teenagers and adults master the English language."
+      },
+      {
+        "company": "Pequenos Animais",
+        "title": "Business and IT Consultant",
+        "years": "Jul 2019 - present",
+        "description": "I've been developing Business and IT consulting services, aiming greater ROI and customer satisfaction."
+      },
+      {
+        "company": "Pequenos Animais",
+        "title": "Business and IT Consultant",
+        "years": "Jul 2017 - present",
+        "description": "I currently work as a volunteer coordinator of the Media Ministry, which involves sound operation, streaming of services and classes, monthly newsletters and webmaster activities (I've developed the institution's website, now available at igrejaprudentina.net)."
       }
     ],
     "skills": [
@@ -115,6 +127,18 @@
         "category": "WebApp game built with HTML, CSS and Vanilla JavaScript",
         "image": "julia-english-box.png",
         "url": "https://peixotodev.com/julia-english-box"
+      },
+      {
+        "title": "Proffy, your online learning platform",
+        "category": "e-Learning WebApp built with React",
+        "image": "proffy3.png",
+        "url": "https://proffy-steel.vercel.app"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon marketplace clone built with React",
+        "image": "amazon-logo.png",
+        "url": "https://amazon-clone-two.vercel.app"
       }
     ]
   },
