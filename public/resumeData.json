@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Andre Peixoto",
-    "occupation": "ReactJS and Node.js Developer",
+    "occupation": "ReactJS Developer",
     "description": "Full Stack React Development Student and English Teacher by Day, Parent and Husband by Night",
     "image": "me.jpeg",
     "bio": "My name is Andre, I'm a Full Stack ReactJS Development Student.",
@@ -139,6 +139,12 @@
         "category": "Amazon marketplace clone built with React",
         "image": "amazon-logo.png",
         "url": "https://amazon-clone-two.vercel.app"
+      },
+      {
+        "title": "Igreja Prudentina",
+        "category": "Prudentina Church's institutional website",
+        "image": "ibp-logo.png",
+        "url": "https://igrejaprudentina.net"
       }
     ]
   },
