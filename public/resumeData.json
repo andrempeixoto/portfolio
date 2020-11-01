@@ -14,12 +14,12 @@
       "state": "",
       "zip": "19020-530"
     },
-    "website": "http://www.peixotodev.com",
+    "website": "http://peixotodev.com",
     "resumedownload": "https://peixotodev.com/resume.pdf",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/andrempeixoto/",
+        "url": "https://linkedin.com/in/andrempeixoto/",
         "className": "fa fa-linkedin"
       },
       {
@@ -30,12 +30,12 @@
       {
         
         "name": "facebook",
-        "url": "https://www.facebook.com/peixoto.amp",
+        "url": "https://facebook.com/peixoto.amp",
         "className": "fa fa-facebook"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/andrempeixoto/",
+        "url": "https://instagram.com/andrempeixoto/",
         "className": "fa fa-instagram"
       }
     ]
@@ -106,7 +106,7 @@
         "level": "75%"
       },
       {
-        "name": "Node.js",
+        "name": "NodeJS",
         "level": "50%"
       },
       {
