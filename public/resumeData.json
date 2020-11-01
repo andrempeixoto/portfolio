@@ -89,28 +89,28 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "70%"
-      },
-      {
-        "name": "CSS",
-        "level": "95%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "30%"
-      },
-      {
         "name": "HTML5",
         "level": "90%"
       },
       {
-        "name": "MongoDB",
-        "level": "20%"
+        "name": "CSS3",
+        "level": "95%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "75%"
+      },
+      {
+        "name": "Node.js",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
       }
     ]
   },
@@ -138,11 +138,11 @@
         "title": "Amazon Clone",
         "category": "Amazon marketplace clone built with React",
         "image": "amazon-logo.png",
-        "url": "https://amazon-clone-two.vercel.app"
+        "url": "https://andre-amazon-clone.vercel.app"
       },
       {
         "title": "Igreja Prudentina",
-        "category": "Prudentina Church's institutional website",
+        "category": "Prudentina Church's institutional website developed with Joomla CMS",
         "image": "ibp-logo.png",
         "url": "https://igrejaprudentina.net"
       }
