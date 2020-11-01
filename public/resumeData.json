@@ -2,40 +2,41 @@
   "main": {
     "name": "Andre Peixoto",
     "occupation": "ReactJS Developer",
-    "description": "Full Stack React Development Student and English Teacher by Day, Parent and Husband by Night",
+    "description": "Business and IT Consultant, MERN Stack Development Student and English Teacher by Day, Parent and Husband by Night",
     "image": "me.jpeg",
     "bio": "My name is Andre, I'm a Full Stack ReactJS Development Student.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "andre@peixotodev.com",
     "phone": "+55 18 99640-9068",
     "address": {
-      "street": "R. Manoel Ruiz Garcia, 895",
-      "city": "Sao Paulo/Brazil",
-      "state": "Sao Paulo",
-      "zip": "19050-680"
+      "street": "",
+      "city": "Sao Paulo / Brazil",
+      "state": "",
+      "zip": "19020-530"
     },
     "website": "http://www.peixotodev.com",
     "resumedownload": "https://peixotodev.com/resume.pdf",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/peixoto.amp",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/andrempeixoto/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/andrempeixoto/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
         "url": "http://github.com/andrempeixoto",
         "className": "fa fa-github"
+      },
+      {
+        
+        "name": "facebook",
+        "url": "https://www.facebook.com/peixoto.amp",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/andrempeixoto/",
+        "className": "fa fa-instagram"
       }
     ]
   },
@@ -63,22 +64,22 @@
     ],
     "work": [
       {
+        "company": "Pequenos Animais",
+        "title": "Business and IT Consultant",
+        "years": "Jul 2019 - present",
+        "description": "I've been providing Business and IT consulting services, aiming greater ROI and customer satisfaction."
+      },
+      {
         "company": "PeixotoDev",
         "title": "Founder/Developer",
         "years": "April 2020 - Present",
-        "description": "Providing high level Websites."
+        "description": "Delivering high level quality Websites."
       },
       {
         "company": "CalEnglish",
         "title": "English Teacher",
         "years": "Jul 2019 - present",
         "description": "C2 ESL Teacher helping teenagers and adults master the English language."
-      },
-      {
-        "company": "Pequenos Animais",
-        "title": "Business and IT Consultant",
-        "years": "Jul 2019 - present",
-        "description": "I've been developing Business and IT consulting services, aiming greater ROI and customer satisfaction."
       },
       {
         "company": "Igreja Prudentina",
@@ -106,7 +107,7 @@
       },
       {
         "name": "Node.js",
-        "level": "70%"
+        "level": "50%"
       },
       {
         "name": "Git",
