@@ -118,16 +118,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "To-Do App",
-        "category": "WebApp built with Vanilla JavaScript",
-        "image": "get-done.png",
-        "url": "https://peixotodev.com/get-done"
+        "title": "Amazon Clone",
+        "category": "Amazon marketplace clone built with React",
+        "image": "amazon-logo.png",
+        "url": "https://andre-amazon-clone.vercel.app"
       },
       {
-        "title": "Julia's English Box",
-        "category": "WebApp game built with HTML, CSS and Vanilla JavaScript",
-        "image": "julia-english-box.png",
-        "url": "https://peixotodev.com/julia-english-box"
+        "title": "Pequenos Animais",
+        "category": "A Veterinary clinic's website",
+        "image": "pequenos-animais.png",
+        "url": "https://pequenosanimais.vercel.app/"
       },
       {
         "title": "Proffy, your online learning platform",
@@ -136,10 +136,16 @@
         "url": "https://proffy-steel.vercel.app"
       },
       {
-        "title": "Amazon Clone",
-        "category": "Amazon marketplace clone built with React",
-        "image": "amazon-logo.png",
-        "url": "https://andre-amazon-clone.vercel.app"
+        "title": "To-Do App",
+        "category": "WebApp built with Vanilla JavaScript",
+        "image": "get-done.png",
+        "url": "https://peixotodev.com/get-done"
+      },
+      {
+        "title": "Julia's English Box",
+        "category": "WebApp game (for my daugher, per her requirements) built with HTML, CSS and Vanilla JavaScript",
+        "image": "julia-english-box.png",
+        "url": "https://peixotodev.com/julia-english-box"
       },
       {
         "title": "Igreja Prudentina",
