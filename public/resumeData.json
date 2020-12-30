@@ -3,7 +3,7 @@
     "name": "Andre Peixoto",
     "occupation": "ReactJS Developer",
     "description": "Business and IT Consultant, MERN Stack Development Student and English Teacher by Day, Parent and Husband by Night",
-    "image": "me.jpeg",
+    "image": "andre.jpg",
     "bio": "My name is Andre, I'm a Full Stack ReactJS Development Student.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "andre@peixotodev.com",
@@ -70,12 +70,6 @@
         "description": "I've been providing Business and IT consulting services, aiming greater ROI and customer satisfaction."
       },
       {
-        "company": "PeixotoDev",
-        "title": "Founder/Developer",
-        "years": "April 2020 - Present",
-        "description": "Delivering high level quality Websites."
-      },
-      {
         "company": "CalEnglish",
         "title": "English Teacher",
         "years": "Jul 2019 - present",
@@ -125,9 +119,15 @@
       },
       {
         "title": "Pequenos Animais",
-        "category": "A Veterinary clinic's website",
+        "category": "Veterinary clinic's Institutional website built with React",
         "image": "pequenos-animais.png",
         "url": "https://pequenosanimais.vercel.app/"
+      },
+      {
+        "title": "To-Do App",
+        "category": "A Simple but neat To-do App built with React",
+        "image": "todo-rounded.png",
+        "url": "https://andre-todo-react.vercel.app/"
       },
       {
         "title": "Proffy, your online learning platform",
