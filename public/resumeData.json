@@ -1,18 +1,18 @@
 {
   "main": {
     "name": "Andre Peixoto",
-    "occupation": "ReactJS Developer",
-    "description": "Business and IT Consultant, MERN Stack Development Student and English Teacher by Day, Parent and Husband by Night",
+    "occupation": "JavaScript (React) and Flutter Developer",
+    "description": "IT Coordinator and Developer by day, Parent and Husband by Night",
     "image": "andre.jpg",
-    "bio": "My name is Andre, I'm a Full Stack ReactJS Development Student.",
+    "bio": "My name is Andre, I'm a JavaScript (React) and Flutter Developer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "andre@peixotodev.com",
-    "phone": "+55 18 99640-9068",
+    "phone": "+55 18 99790-9068",
     "address": {
       "street": "",
       "city": "Sao Paulo / Brazil",
       "state": "",
-      "zip": "19020-530"
+      "zip": "19050-710"
     },
     "website": "http://peixotodev.com",
     "resumedownload": "https://peixotodev.com/resume.pdf",
@@ -46,8 +46,7 @@
       {
         "school": "Rocketseat",
         "degree": "Fullstack JavaScript (ReactJS, React Native, Node.js) Bootcamp",
-        "graduated": "currently attending",
-        "description": "Expected conclusion: Dec/2020"
+        "graduated": "2021"
       },
       {
         "school": "Toledo University Center",
@@ -64,22 +63,28 @@
     ],
     "work": [
       {
+        "company": "MAB",
+        "title": "Flutter Developer",
+        "years": "Jan 2021 - present",
+        "description": "Working on a cross-platform (Android/iOS/web) Flutter app in a Telemedicine Start-up that aims to create a inclusive user-friendly App for connecting Patients and Doctors, while giving to the Patient ownership of all their medical data/history through our App."
+      },
+      {
         "company": "Pequenos Animais",
         "title": "Business and IT Consultant",
         "years": "Jul 2019 - present",
-        "description": "I've been providing Business and IT consulting services, aiming greater ROI and customer satisfaction."
-      },
-      {
-        "company": "CalEnglish",
-        "title": "English Teacher",
-        "years": "Jul 2019 - present",
-        "description": "C2 ESL Teacher helping teenagers and adults master the English language."
+        "description": "Works providing Business and IT consulting services, aiming greater ROI and customer satisfaction."
       },
       {
         "company": "Igreja Prudentina",
         "title": "Communication Ministry Coordinator",
         "years": "Jul 2017 - present",
-        "description": "I currently work as a volunteer coordinator of the Media Ministry, which involves sound operation, streaming of services and classes, monthly newsletters and webmaster activities (I've developed the institution's website, now available at igrejaprudentina.net)."
+        "description": "Working as a volunteer coordinator of the Media Ministry, which involves sound operation, streaming of services and classes, monthly newsletters and webmaster activities (I've developed the institution's website, now available at igrejaprudentina.net)."
+      },
+      {
+        "company": "CalEnglish",
+        "title": "English Teacher",
+        "years": "Jul 2019 - Jan 2021",
+        "description": "Worked as a C2-leve ESL Teacher helping teenagers and adults learn and master the English language."
       }
     ],
     "skills": [
