@@ -1,11 +1,11 @@
 import React, { useState } from 'react';
 
 const Contact = ({ data }) => {
-  const [url, setUrl] = useState(
-    'mailto:test@example.com?subject=subject&body=body'
-  );
+  // const [url, setUrl] = useState(
+  //   'mailto:test@example.com?subject=subject&body=body'
+  // );
   const [name, setName] = useState('');
-  const [email, setEmail] = useState('');
+  // const [email, setEmail] = useState('');
   const [subject, setSubject] = useState('');
   const [message, setMessage] = useState('');
 
@@ -51,8 +51,8 @@ const Contact = ({ data }) => {
                 />
               </div>
 
-              <div>
-                <label htmlFor="contactEmail">
+              {/* <div>
+                 <label htmlFor="contactEmail">
                   Email <span className="required">*</span>
                 </label>
                 <input
@@ -64,7 +64,7 @@ const Contact = ({ data }) => {
                   name="contactEmail"
                   onChange={(e) => setEmail(e.target.value)}
                 />
-              </div>
+              </div> */}
 
               <div>
                 <label htmlFor="contactSubject">Subject</label>
@@ -85,6 +85,7 @@ const Contact = ({ data }) => {
                 </label>
                 <textarea
                   value={message}
+                  type="text"
                   onChange={(e) => setMessage(e.target.value)}
                   cols="50"
                   rows="15"
@@ -104,7 +105,7 @@ const Contact = ({ data }) => {
             </fieldset>
           </form>
 
-          <div id="message-warning"> Error boy</div>
+          <div id="message-warning">Sorry, there was an error.</div>
           <div id="message-success">
             <i className="fa fa-check"></i>Your message was sent, thank you!
             <br />
@@ -119,7 +120,8 @@ const Contact = ({ data }) => {
               <br />
               {/* {data?.address.street} <br /> */}
               {data?.email} <br />
-              {data?.address.city}, {data?.address.state} {data?.address.zip}
+              {data?.address.state} / {data?.address.country},{' '}
+              {data?.address.zip}
               <br />
               <span>{data?.phone}</span>
             </p>

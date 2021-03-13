@@ -5,13 +5,15 @@
     "description": "IT Coordinator and Developer by day, Parent and Husband by Night",
     "image": "andre.jpg",
     "bio": "My name is Andre, I'm a JavaScript (React) and Flutter Developer.",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "biocomplement": "I'm currently working as a remote Flutter developer for a Telemedicine Start-Up based in Sao Paulo/Brazil. ",
+    "contactmessage": "Get in touch with me to receive further details and possibily discuss about any projects.",
     "email": "andre@peixotodev.com",
     "phone": "+55 18 99790-9068",
     "address": {
       "street": "",
-      "city": "Sao Paulo / Brazil",
-      "state": "",
+      "city": "",
+      "state": "Sao Paulo",
+      "country": "Brazil",
       "zip": "19050-710"
     },
     "website": "http://peixotodev.com",
@@ -24,14 +26,8 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/andrempeixoto",
+        "url": "https://github.com/andrempeixoto",
         "className": "fa fa-github"
-      },
-      {
-        
-        "name": "facebook",
-        "url": "https://facebook.com/peixoto.amp",
-        "className": "fa fa-facebook"
       },
       {
         "name": "instagram",
@@ -66,19 +62,22 @@
         "company": "MAB",
         "title": "Flutter Developer",
         "years": "Jan 2021 - present",
-        "description": "Working on a cross-platform (Android/iOS/web) Flutter app in a Telemedicine Start-up that aims to create a inclusive user-friendly App for connecting Patients and Doctors, while giving to the Patient ownership of all their medical data/history through our App."
+        "description": "Working on a cross-platform (Android/iOS/web) Flutter app in a Telemedicine Start-up that aims to create a inclusive user-friendly App for connecting Patients and Doctors, while giving to the Patient ownership of all their medical data/history through our App.",
+        "descriptioncomplement": "- It's a part-time contract."
       },
       {
         "company": "Pequenos Animais",
-        "title": "Business and IT Consultant",
-        "years": "Jul 2019 - present",
-        "description": "Works providing Business and IT consulting services, aiming greater ROI and customer satisfaction."
+        "title": "IT Coordinator and Business Advisor",
+        "years": "Jul 2015 - present",
+        "description": "Conducts IT management, such as network and applications support, both in person and remotely. Develops Business consulting services, aiming greater ROI and customer satisfaction.",
+        "descriptioncomplement": "- It's a part-time contract."
       },
       {
         "company": "Igreja Prudentina",
-        "title": "Communication Ministry Coordinator",
+        "title": "IT Coordinator",
         "years": "Jul 2017 - present",
-        "description": "Working as a volunteer coordinator of the Media Ministry, which involves sound operation, streaming of services and classes, monthly newsletters and webmaster activities (I've developed the institution's website, now available at igrejaprudentina.net)."
+        "description": "Coordinates media and communication ministry (sound operation, video streaming of courses and services, monthly newsletters editing, website's design and maintenance).",
+        "descriptioncomplement": "* It's a voluntary work."
       },
       {
         "company": "CalEnglish",
