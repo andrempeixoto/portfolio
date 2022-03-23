@@ -1,22 +1,22 @@
 {
   "main": {
     "name": "Andre Peixoto",
-    "occupation": "JavaScript (React) and Flutter Developer",
-    "description": "IT Coordinator and Developer by day, Parent and Husband by Night",
+    "occupation": "Software Developer",
+    "description": "Fullstack Web (Vue, React, Node.js) and Flutter Developer",
     "image": "andre.jpg",
-    "bio": "My name is Andre, I'm a JavaScript (React) and Flutter Developer.",
-    "biocomplement": "I'm currently working as a remote Flutter developer for a Telemedicine Start-Up based in Sao Paulo/Brazil. ",
-    "contactmessage": "Get in touch with me to receive further details and possibily discuss about any projects.",
-    "email": "andre@peixotodev.com",
+    "bio": "My name is Andre, and I live and work in Sao Paulo, Brazil.",
+    "biocomplement": "My current occupation is as a remote Fullstack Developer at Twiage Inc., based in New York, USA.",
+    "contactmessage": "Get in touch with me to receive further details and perhaps discuss about any projects.",
+    "email": "peixoto.amp@gmail.com",
     "phone": "+55 18 99790-9068",
     "address": {
       "street": "",
       "city": "",
       "state": "Sao Paulo",
       "country": "Brazil",
-      "zip": "19050-710"
+      "zip": "19020-120"
     },
-    "website": "http://peixotodev.com",
+    "website": "http://andrepeixoto.dev",
     "resumedownload": "https://peixotodev.com/Andre_Peixoto_dev_April_2021.pdf",
     "social": [
       {
@@ -45,6 +45,11 @@
         "graduated": "2021"
       },
       {
+        "school": "Harvard edX",
+        "degree": "CS50 - Introduction to Computer Science",
+        "graduated": "2021"
+      },
+      {
         "school": "Toledo University Center",
         "degree": "MBA Business Management",
         "graduated": "2013",
@@ -59,57 +64,64 @@
     ],
     "work": [
       {
+        "company": "Twiage Inc.",
+        "title": "Software Developer",
+        "years": "May 2021 - present",
+        "description": "I've been working in Twiage's development team with front and back-end programming, from web to app development. \rOur current stack is Node (api), Angular and Vue (web front-end) Swift, Kotlin (native apps) and Flutter (cross-platform). \rTwiage is a pioneer emergency care platform for pre-hospital communication that reduces drastically the triage time for patients. Twiage has a pursue for excellence and continuous innovation at its core, and has been in business for several years providing top level services for Hospitals and EMS agencies all over the United States.",
+        "descriptioncomplement": "- Full-time contract."
+      },
+      {
         "company": "MAB",
         "title": "Flutter Developer",
-        "years": "Jan 2021 - present",
+        "years": "Jan 2021 - May 2021",
         "description": "Working on a cross-platform (Android/iOS/web) Flutter app in a Telemedicine Start-up that aims to create a inclusive user-friendly App for connecting Patients and Doctors, while giving to the Patient ownership of all their medical data/history through our App.",
-        "descriptioncomplement": "- It's a part-time contract."
+        "descriptioncomplement": "- Part-time contract."
       },
       {
         "company": "Pequenos Animais",
         "title": "IT Coordinator and Business Advisor",
-        "years": "Jul 2015 - present",
+        "years": "Jul 2015 - May 2021",
         "description": "Conducts IT management, such as network and applications support, both in person and remotely. Develops Business consulting services, aiming greater ROI and customer satisfaction.",
-        "descriptioncomplement": "- It's a part-time contract."
+        "descriptioncomplement": "- Part-time contract."
       },
       {
         "company": "Igreja Prudentina",
         "title": "IT Coordinator",
-        "years": "Jul 2017 - present",
+        "years": "Jul 2017 - May 2021",
         "description": "Coordinates media and communication ministry (sound operation, video streaming of courses and services, monthly newsletters editing, website's design and maintenance).",
-        "descriptioncomplement": "* It's a voluntary work."
+        "descriptioncomplement": "* Voluntary work."
       },
       {
         "company": "CalEnglish",
         "title": "English Teacher",
         "years": "Jul 2019 - Jan 2021",
-        "description": "Worked as a C2-leve ESL Teacher helping teenagers and adults learn and master the English language."
+        "description": "Worked as a C2-level ESL Teacher helping teenagers and adults learn and master the English language."
       }
     ],
     "skills": [
       {
         "name": "HTML5",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "CSS3",
-        "level": "95%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
-        "level": "75%"
+        "level": "80%"
       },
       {
-        "name": "ReactJS",
-        "level": "75%"
+        "name": "Vue.js",
+        "level": "80%"
       },
       {
-        "name": "NodeJS",
-        "level": "50%"
+        "name": "Node.js",
+        "level": "75%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "75%"
       }
     ]
   },
