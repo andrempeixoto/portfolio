@@ -5,13 +5,13 @@
     "description": "Fullstack Web (Vue, React, Node.js) and Flutter Developer",
     "image": "andre.jpg",
     "bio": "My name is Andre, and I live and work in Sao Paulo, Brazil.",
-    "biocomplement": "My current occupation is as a remote Fullstack Developer at Twiage Inc., based in New York, USA.",
-    "contactmessage": "Get in touch with me to receive further details and to discuss about any projects.",
+    "biocomplement": "I currently work remotely as a Fullstack Developer for Twiage Inc., that is based in New York, USA.",
+    "contactmessage": "Get in touch with me to talk about software development and possible projects.",
     "email": "peixoto.amp@gmail.com",
     "phone": "+55 18 99790-9068",
     "address": {
       "street": "",
-      "city": "",
+      "city": "Presidente Prudente",
       "state": "Sao Paulo",
       "country": "Brazil",
       "zip": "19020-120"
@@ -85,17 +85,18 @@
         "descriptioncomplement": "- Part-time contract."
       },
       {
+        "company": "CalEnglish",
+        "title": "English Teacher",
+        "years": "Jul 2019 - Jan 2021",
+        "description": "Worked as a C2-level ESL Teacher helping teenagers and adults learn and master the English language.",
+        "descriptioncomplement": "- Part-time contract."
+      },
+      {
         "company": "Igreja Prudentina",
         "title": "IT Coordinator",
         "years": "Jul 2017 - May 2021",
         "description": "Coordinated media and communication ministry (sound operation, video streaming of courses and services, monthly newsletters editing, website's design and maintenance).",
         "descriptioncomplement": "* Voluntary work."
-      },
-      {
-        "company": "CalEnglish",
-        "title": "English Teacher",
-        "years": "Jul 2019 - Jan 2021",
-        "description": "Worked as a C2-level ESL Teacher helping teenagers and adults learn and master the English language."
       }
     ],
     "skills": [
@@ -152,22 +153,16 @@
         "url": "https://proffy-steel.vercel.app"
       },
       {
-        "title": "To-Do App",
-        "category": "WebApp built with Vanilla JavaScript",
-        "image": "get-done.png",
-        "url": "https://peixotodev.com/get-done"
-      },
-      {
         "title": "Julia's English Box",
         "category": "WebApp game (for my daugher, per her requirements) built with HTML, CSS and Vanilla JavaScript",
         "image": "julia-english-box.png",
-        "url": "https://peixotodev.com/julia-english-box"
+        "url": "https://andrempeixoto.github.io/julia-english-box"
       },
       {
         "title": "Igreja Prudentina",
         "category": "Prudentina Church's institutional website developed with Joomla CMS",
         "image": "ibp-logo.png",
-        "url": "https://igrejaprudentina.net"
+        "url": "https://igrejaprudentina.com.br"
       }
     ]
   },
