@@ -1,7 +1,5 @@
 # My Portfolio
 
-## This portfolio was built over a template offered by Clever Programmer
-
 ![Andre Peixoto | Software Engineer](resume-screenshot.png?raw=true "Andre Peixoto | Software Engineer")
 
 ## <a href="https://andrepeixoto.dev">Hosted at AndrePeixoto.dev</a>
