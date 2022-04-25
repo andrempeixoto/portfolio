@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Andre Peixoto",
-    "occupation": "Software Developer",
+    "occupation": "Software Engineer",
     "description": "Fullstack Web (Vue, React, Node.js) and Flutter Developer",
     "image": "andre.jpg",
     "bio": "My name is Andre, and I live and work in Sao Paulo, Brazil.",
-    "biocomplement": "I currently work remotely as a Fullstack Developer for Twiage Inc., that is based in New York, USA.",
+    "biocomplement": "I currently work remotely as a Fullstack Software Engineer for Twiage Inc., that is based in New York, USA.",
     "contactmessage": "Get in touch with me to talk about software development and possible projects.",
     "email": "hi@andrepeixoto.dev",
     "phone": "+55 18 99790-9068",
@@ -65,7 +65,7 @@
     "work": [
       {
         "company": "Twiage Inc.",
-        "title": "Software Developer",
+        "title": "Software Engineer",
         "years": "May 2021 - present",
         "description": "I've been working in Twiage's development team with front and back-end programming, from web to app development. \nOur current stack is Node (api), Angular and Vue (web front-end) Swift, Kotlin (native apps) and Flutter (cross-platform). \nTwiage is a pioneer emergency care platform for pre-hospital communication that reduces drastically the triage time for patients. Twiage has a pursue for excellence and continuous innovation at its core, and has been in business for several years providing top level services for Hospitals and EMS agencies all over the United States.",
         "descriptioncomplement": "- Full-time contract."
@@ -73,15 +73,8 @@
       {
         "company": "MAB",
         "title": "Flutter Developer",
-        "years": "Jan 2021 - May 2021",
+        "years": "Fev 2021 - Apr 2021",
         "description": "Worked on a cross-platform (Android/iOS/web) Flutter app in a Telemedicine Start-up that aims to create a inclusive user-friendly App for connecting Patients and Doctors, while giving to the Patient ownership of all their medical data/history through our App.",
-        "descriptioncomplement": "- Part-time contract."
-      },
-      {
-        "company": "Pequenos Animais",
-        "title": "IT Coordinator and Business Advisor",
-        "years": "Jul 2015 - May 2021",
-        "description": "Conducted IT management, such as network and applications support, both in person and remotely. Develops Business consulting services, aiming greater ROI and customer satisfaction.",
         "descriptioncomplement": "- Part-time contract."
       },
       {
@@ -92,37 +85,37 @@
         "descriptioncomplement": "- Part-time contract."
       },
       {
-        "company": "Igreja Prudentina",
-        "title": "IT Coordinator",
-        "years": "Jul 2017 - May 2021",
-        "description": "Coordinated media and communication ministry (sound operation, video streaming of courses and services, monthly newsletters editing, website's design and maintenance).",
-        "descriptioncomplement": "* Voluntary work."
+        "company": "Pequenos Animais",
+        "title": "IT Coordinator and Business Advisor",
+        "years": "Jul 2015 - Apr 2021",
+        "description": "Conducted IT management, such as network and applications support, both in person and remotely. Develops Business consulting services, aiming greater ROI and customer satisfaction.",
+        "descriptioncomplement": "- Part-time contract."
       }
     ],
     "skills": [
       {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "CSS3",
-        "level": "80%"
-      },
-      {
         "name": "JavaScript",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "Vue.js",
-        "level": "80%"
+        "level": "100%"
+      },
+      {
+        "name": "React.js",
+        "level": "100%"
       },
       {
         "name": "Node.js",
-        "level": "75%"
+        "level": "100%"
       },
       {
         "name": "Git",
-        "level": "75%"
+        "level": "100%"
+      },
+      {
+        "name": "Jira",
+        "level": "100%"
       }
     ]
   },
