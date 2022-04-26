@@ -980,6 +980,7 @@ call-to-action .button {
 #contact p.lead {
   font: 18px/36px 'opensans-light', sans-serif;
   padding-right: 3%;
+  font: 18px/36px 'opensans-light', sans-serif;
 }
 #contact .header-col {
   padding-top: 6px;
@@ -999,7 +1000,9 @@ call-to-action .button {
 }
 #contact input,
 #contact textarea,
+
 #contact select {
+  font: 18px/36px 'opensans-regular', sans-serif;
   padding: 18px 20px;
   color: #eee;
   background: #373233;

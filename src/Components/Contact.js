@@ -14,7 +14,7 @@ const Contact = ({ data }) => {
   const handleClick = (e) => {
     e.preventDefault();
     window.open(
-      `mailto:andre@peixotodev.com?subject=${subject}&body=${name}: ${message}`
+      `mailto:hi@andrepeixoto.dev?subject=${subject}&body=${name}: ${message}`
     );
   };
 
