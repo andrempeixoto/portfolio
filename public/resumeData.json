@@ -109,6 +109,10 @@
         "name": "Node.js",
         "level": "100%"
       },
+			{
+				"name": "Jest/TDD",
+				"level": "100%"
+			},
       {
         "name": "Git",
         "level": "100%"
@@ -116,7 +120,11 @@
       {
         "name": "Jira",
         "level": "100%"
-      }
+      },
+			{
+				"name": "Agile/Scrum",
+				"level": "100%"
+			}
     ]
   },
   "portfolio": {
