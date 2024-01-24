@@ -17,7 +17,7 @@
       "zip": "19020-120"
     },
     "website": "http://andrepeixoto.dev",
-    "resumedownload": "https://andrempeixoto.github.io/Andre_Peixoto_dev.pdf",
+    "resumedownload": "https://andrempeixoto.github.io/Andre_Peixoto_2024.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -98,21 +98,17 @@
         "level": "100%"
       },
       {
-        "name": "Vue.js",
-        "level": "100%"
-      },
-      {
-        "name": "React.js",
+        "name": "Vue 3",
         "level": "100%"
       },
       {
         "name": "Node.js",
         "level": "100%"
       },
-			{
-				"name": "Jest/TDD",
-				"level": "100%"
-			},
+      {
+        "name": "Jest/TDD",
+        "level": "100%"
+      },
       {
         "name": "Git",
         "level": "100%"
@@ -121,10 +117,10 @@
         "name": "Jira",
         "level": "100%"
       },
-			{
-				"name": "Agile/Scrum",
-				"level": "100%"
-			}
+      {
+        "name": "Agile/Scrum",
+        "level": "100%"
+      }
     ]
   },
   "portfolio": {
