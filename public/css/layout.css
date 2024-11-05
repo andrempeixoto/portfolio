@@ -265,7 +265,7 @@ ul#nav li.current a {
 #resume {
   background: #fff;
   padding-top: 90px;
-  padding-bottom: 72px;
+  /* padding-bottom: 72px; */
   overflow: hidden;
 }
 
@@ -330,16 +330,16 @@ ul#nav li.current a {
   text-align: left;
 }
 .bars .skills {
-  margin-top: 36px;
+  margin-top: 2rem;
   list-style: none;
 }
-.bars li {
+/* .bars li {
   position: relative;
   margin-bottom: 60px;
   background: #ccc;
   height: 42px;
   border-radius: 3px;
-}
+} */
 .bars li em {
   font: 15px 'opensans-bold', sans-serif;
   color: #313131;

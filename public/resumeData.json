@@ -2,10 +2,10 @@
   "main": {
     "name": "Andre Peixoto",
     "occupation": "Software Engineer",
-    "description": "Fullstack Web (Vue, React, Node.js) and Flutter Developer",
+    "description": "Working as a JS/TS Fullstack Developer",
     "image": "andre.jpg",
     "bio": "My name is Andre, and I live and work in Sao Paulo, Brazil.",
-    "biocomplement": "I currently work remotely as a Fullstack Software Engineer for Twiage Inc., that is based in New York, USA.",
+    "biocomplement": "I currently work remotely as a Fullstack Software Engineer at Twiage Inc., a US based company, developing hospital communication software.",
     "contactmessage": "Get in touch with me to talk about software development and possible projects.",
     "email": "hi@andrepeixoto.dev",
     "phone": "+55 18 99790-9068",
@@ -14,7 +14,7 @@
       "city": "Presidente Prudente",
       "state": "Sao Paulo",
       "country": "Brazil",
-      "zip": "19020-120"
+      "zip": "19053-380"
     },
     "website": "http://andrepeixoto.dev",
     "resumedownload": "https://andrempeixoto.github.io/Andre_Peixoto_2024.pdf",
@@ -28,11 +28,6 @@
         "name": "github",
         "url": "https://github.com/andrempeixoto",
         "className": "fa fa-github"
-      },
-      {
-        "name": "instagram",
-        "url": "https://instagram.com/andrempeixoto/",
-        "className": "fa fa-instagram"
       }
     ]
   },
@@ -52,13 +47,13 @@
       {
         "school": "Toledo University Center",
         "degree": "MBA Business Management",
-        "graduated": "2013",
+        "graduated": "2011 - 2013",
         "description": ""
       },
       {
         "school": "Northern Parana State University",
         "degree": "Biological Sciences",
-        "graduated": "2010",
+        "graduated": "2007 - 2010",
         "description": ""
       }
     ],
@@ -67,14 +62,14 @@
         "company": "Twiage Inc.",
         "title": "Software Engineer",
         "years": "May 2021 - present",
-        "description": "I've been working in Twiage's development team with front and back-end programming, from web to app development. \nOur current stack is Node (api), Angular and Vue (web front-end) Swift, Kotlin (native apps) and Flutter (cross-platform). \nTwiage is a pioneer emergency care platform for pre-hospital communication that reduces drastically the triage time for patients. Twiage has a pursue for excellence and continuous innovation at its core, and has been in business for several years providing top level services for Hospitals and EMS agencies all over the United States.",
+        "description": "I've been working in Twiage's development team with front and back-end programming, from web to app development. \nOur current stack is Node, Vue 3, Swift, Kotlin and Flutter. \nTwiage is a pioneer emergency care platform for pre-hospital communication that reduces drastically the triage time for patients. Twiage has a pursue for excellence and continuous innovation at its core, and has been in business for several years providing top level services for Hospitals and EMS agencies all over the United States.",
         "descriptioncomplement": "- Full-time contract."
       },
       {
         "company": "MAB",
         "title": "Flutter Developer",
         "years": "Fev 2021 - Apr 2021",
-        "description": "Worked on a cross-platform (Android/iOS/web) Flutter app in a Telemedicine Start-up that aims to create a inclusive user-friendly App for connecting Patients and Doctors, while giving to the Patient ownership of all their medical data/history through our App.",
+        "description": "Worked on MAB, a telemedicine start-up, developing its Flutter app aiming the creation of an inclusive and user-friendly App for connecting Patients and Doctors, while also giving to the Patient ownership of all their medical data/history through the App.",
         "descriptioncomplement": "- Part-time contract."
       },
       {
@@ -98,15 +93,15 @@
         "level": "100%"
       },
       {
-        "name": "Vue 3",
-        "level": "100%"
-      },
-      {
         "name": "Node.js",
         "level": "100%"
       },
       {
-        "name": "Jest/TDD",
+        "name": "Vue 3",
+        "level": "100%"
+      },
+      {
+        "name": "Jest/Vitest",
         "level": "100%"
       },
       {
